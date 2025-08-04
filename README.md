@@ -32,11 +32,6 @@ Each module folder contains JMeter `.jmx` files for testing the corresponding AP
 
 ### Running Tests
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/jmeter-performance-tests.git
-   cd jmeter-performance-tests
 
 STEPS:
 Open the desired .jmx test plan in JMeter.
